@@ -5,11 +5,22 @@
     "speakx-frontend",
     "speakx-backend"
   ],
-  "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amoghkrishna55/speakx.git"
+  },
   "keywords": [],
-  "author": "Amogh Krishna",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amoghkrishna55/speakx/issues"
+  },
+  "homepage": "https://github.com/amoghkrishna55/speakx#readme",
+  "description": "",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.12.5"
+  }
 }
